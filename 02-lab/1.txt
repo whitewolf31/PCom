@@ -1,0 +1,4 @@
+1a)Bandwidth => 16GB / (400 / 80) = 16/5 GB/h = 7111111.2 bits/s
+   Latency => 400 / 80 = 5h = 18000s
+1b)Bandwidth => 2TB / 25s = 80GB/s = 640000000000 bits/s=  
+   Latency => 200 / 8 = 25s
